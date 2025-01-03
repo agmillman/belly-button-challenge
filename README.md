@@ -9,3 +9,5 @@ All code is original but is based on sample code and documentation found at:
 - chatgpt.com: prompted to produce sample code snippets for performing specific functions
 - d3js.org: reviewed documentation and code snippets
 - plotly.com: reviewed documentation and code snippets 
+
+Published application can be found at https://agmillman.github.io//belly-button-challenge/
